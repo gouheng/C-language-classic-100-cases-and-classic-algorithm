@@ -1,2 +1,5 @@
 # C-language-classic-100-cases-and-classic-algorithm
-no any
+
+###  C 语言经典100例和经典算法
+1. 持续更新
+2. [100实例菜鸟地址](http://www.runoob.com/cprogramming/c-100-examples.html) <
